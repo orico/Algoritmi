@@ -1,4 +1,0 @@
-%option main
-%%
-[ \t]+	putchar(' ');
-[ \t]+$	;

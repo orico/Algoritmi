@@ -1,4 +1,4 @@
 Algoritmi
 =========
 
-Appunti, esami e materiale di Algoritmi e Strutture dati
+Appunti, esami e materiale di Algoritmi e Strutture Dati
